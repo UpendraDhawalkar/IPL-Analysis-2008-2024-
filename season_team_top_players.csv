@@ -1,0 +1,157 @@
+season,team,orange_cap,runs,purple_cap,wickets,highest_sr_player,strike_rate,best_economy_player,economy
+2008,Chennai Super Kings,SK Raina,421,JA Morkel,20,Matthew Hayden,158.3,Muttiah Muralitharan,6.42
+2008,Deccan Chargers,AC Gilchrist,436,RP Singh,17,AC Gilchrist,150.2,RP Singh,7.5
+2008,Delhi Daredevils,G Gambhir,534,MF Maharoof,19,V Sehwag,162.5,MF Maharoof,7.8
+2008,Kings XI Punjab,SE Marsh,616,IK Pathan,20,SE Marsh,155.8,IK Pathan,8.1
+2008,Kolkata Knight Riders,SC Ganguly,349,Umar Gul,14,SC Ganguly,142.3,Umar Gul,7.2
+2008,Mumbai Indians,ST Jayasuriya,514,A Nehra,14,ST Jayasuriya,166.5,Shaun Pollock,6.18
+2008,Rajasthan Royals,SR Watson,472,Sohail Tanvir,24,Yusuf Pathan,179.2,Shane Warne,7.22
+2008,Royal Challengers Bangalore,R Dravid,371,Z Khan,15,CH Gayle,170.1,Z Khan,7.9
+2009,Chennai Super Kings,ML Hayden,572,M Muralitharan,16,ML Hayden,160.4,M Muralitharan,6.35
+2009,Deccan Chargers,AC Gilchrist,495,RP Singh,26,AC Gilchrist,155.1,RP Singh,7.2
+2009,Delhi Daredevils,AB de Villiers,465,A Nehra,22,AB de Villiers,176.5,A Nehra,7.1
+2009,Kings XI Punjab,Yuvraj Singh,340,IK Pathan,20,Yuvraj Singh,165.2,IK Pathan,8
+2009,Kolkata Knight Riders,BJ Hodge,365,I Sharma,11,BJ Hodge,152.3,I Sharma,7.5
+2009,Mumbai Indians,JP Duminy,372,SL Malinga,21,JP Duminy,148.7,SL Malinga,6.5
+2009,Rajasthan Royals,RA Jadeja,295,MM Patel,18,RA Jadeja,162.1,MM Patel,7.8
+2009,Royal Challengers Bangalore,JH Kallis,361,A Kumble,22,JH Kallis,145.6,A Kumble,6.58
+2010,Chennai Super Kings,SK Raina,528,M Muralitharan,16,SK Raina,155.4,M Muralitharan,6.5
+2010,Deccan Chargers,A Symonds,429,PP Ojha,22,A Symonds,160.8,PP Ojha,6.8
+2010,Delhi Daredevils,V Sehwag,356,A Mishra,20,V Sehwag,170.2,A Mishra,7
+2010,Kings XI Punjab,DPMD Jayawardene,445,IK Pathan,17,DPMD Jayawardene,152.1,IK Pathan,8.2
+2010,Kolkata Knight Riders,SC Ganguly,493,AB Dinda,12,SC Ganguly,148.5,AB Dinda,7.9
+2010,Mumbai Indians,SR Tendulkar,618,Harbhajan Singh,20,Kieron Pollard,185.4,Anil Kumble,6.58
+2010,Rajasthan Royals,NV Ojha,377,SK Trivedi,13,NV Ojha,162.3,SK Trivedi,7.5
+2010,Royal Challengers Bangalore,JH Kallis,572,A Kumble,19,JH Kallis,152.7,A Kumble,6.7
+2011,Chennai Super Kings,MEK Hussey,492,R Ashwin,21,MEK Hussey,148.2,R Ashwin,6.8
+2011,Deccan Chargers,S Dhawan,400,A Mishra,19,S Dhawan,150.1,A Mishra,7.2
+2011,Delhi Daredevils,V Sehwag,424,M Morkel,14,V Sehwag,165.3,M Morkel,7.5
+2011,Kings XI Punjab,SE Marsh,504,RJ Harris,17,SE Marsh,155.6,RJ Harris,8.1
+2011,Kochi Tuskers Kerala,BB McCullum,357,R Vinay Kumar,17,BB McCullum,158.4,R Vinay Kumar,7.8
+2011,Kolkata Knight Riders,JH Kallis,424,Iqbal Abdulla,18,JH Kallis,145.2,Iqbal Abdulla,6.9
+2011,Mumbai Indians,SR Tendulkar,553,SL Malinga,30,Kieron Pollard,180.2,SL Malinga,6.7
+2011,Pune Warriors,Yuvraj Singh,343,R Sharma,17,Yuvraj Singh,160.1,R Sharma,8
+2011,Rajasthan Royals,R Dravid,343,SK Warne,14,R Dravid,142.5,SK Warne,7.1
+2011,Royal Challengers Bangalore,CH Gayle,608,S Aravind,22,CH Gayle,170.5,S Aravind,7.6
+2012,Chennai Super Kings,SK Raina,441,DJ Bravo,20,SK Raina,152.3,DJ Bravo,7.8
+2012,Deccan Chargers,S Dhawan,569,DW Steyn,18,S Dhawan,155.1,DW Steyn,7.2
+2012,Delhi Daredevils,V Sehwag,495,M Morkel,30,V Sehwag,168.4,M Morkel,7.5
+2012,Kings XI Punjab,Mandeep Singh,432,P Awana,18,Mandeep Singh,150.2,P Awana,8.3
+2012,Kolkata Knight Riders,G Gambhir,590,SP Narine,29,G Gambhir,145.6,SP Narine,6.7
+2012,Mumbai Indians,RG Sharma,433,SL Malinga,25,RG Sharma,148.2,SL Malinga,6.8
+2012,Pune Warriors,RV Uthappa,405,A Nehra,12,RV Uthappa,160.1,A Nehra,7.9
+2012,Rajasthan Royals,AM Rahane,560,SK Trivedi,14,AM Rahane,152.3,SK Trivedi,7.4
+2012,Royal Challengers Bangalore,CH Gayle,733,R Vinay Kumar,21,CH Gayle,175.2,R Vinay Kumar,8.1
+2013,Chennai Super Kings,MEK Hussey,733,DJ Bravo,34,MEK Hussey,150.4,DJ Bravo,7.9
+2013,Delhi Daredevils,DA Warner,410,UT Yadav,20,DA Warner,162.1,UT Yadav,8.2
+2013,Kings XI Punjab,DA Miller,418,Azhar Mahmood,16,DA Miller,170.3,Azhar Mahmood,8
+2013,Kolkata Knight Riders,G Gambhir,406,SP Narine,26,G Gambhir,148.2,SP Narine,6.5
+2013,Mumbai Indians,RG Sharma,538,Harbhajan Singh,25,RG Sharma,152.1,Harbhajan Singh,7.1
+2013,Pune Warriors,AJ Finch,456,AB Dinda,18,AJ Finch,165.4,AB Dinda,8.3
+2013,Rajasthan Royals,SR Watson,543,JP Faulkner,33,SR Watson,160.2,JP Faulkner,7.8
+2013,Royal Challengers Bangalore,CH Gayle,720,R Vinay Kumar,27,CH Gayle,175.1,R Vinay Kumar,8.2
+2013,Sunrisers Hyderabad,S Dhawan,311,A Mishra,24,S Dhawan,145.3,A Mishra,7
+2014,Chennai Super Kings,DR Smith,566,MM Sharma,26,DR Smith,158.2,MM Sharma,7.5
+2014,Delhi Daredevils,JP Duminy,410,Imran Tahir,11,JP Duminy,150.1,Imran Tahir,7.2
+2014,Kings XI Punjab,GJ Maxwell,552,AR Patel,19,GJ Maxwell,180.3,AR Patel,7.8
+2014,Kolkata Knight Riders,RV Uthappa,660,SP Narine,22,RV Uthappa,155.2,SP Narine,6.6
+2014,Mumbai Indians,LMP Simmons,394,SL Malinga,17,LMP Simmons,152.4,SL Malinga,6.9
+2014,Rajasthan Royals,AM Rahane,339,JP Faulkner,17,AM Rahane,145.1,JP Faulkner,7.6
+2014,Royal Challengers Bangalore,AB de Villiers,395,MA Starc,17,AB de Villiers,170.2,MA Starc,8.1
+2014,Sunrisers Hyderabad,DA Warner,528,B Kumar,21,DA Warner,160.1,B Kumar,7.4
+2015,Chennai Super Kings,BB McCullum,436,DJ Bravo,28,BB McCullum,165.3,DJ Bravo,7.9
+2015,Delhi Daredevils,SS Iyer,439,NM Coulter-Nile,16,SS Iyer,150.2,NM Coulter-Nile,8
+2015,Kings XI Punjab,DA Miller,357,Anureet Singh,16,DA Miller,170.1,Anureet Singh,8.2
+2015,Kolkata Knight Riders,RV Uthappa,364,AD Russell,14,AD Russell,175.4,AD Russell,8.1
+2015,Mumbai Indians,LMP Simmons,540,SL Malinga,26,LMP Simmons,152.3,SL Malinga,6.8
+2015,Rajasthan Royals,AM Rahane,540,CH Morris,15,AM Rahane,148.2,CH Morris,7.5
+2015,Royal Challengers Bangalore,AB de Villiers,513,YS Chahal,24,AB de Villiers,171.3,YS Chahal,7.2
+2015,Sunrisers Hyderabad,DA Warner,562,B Kumar,19,DA Warner,160.2,B Kumar,7.3
+2016,Delhi Daredevils,Q de Kock,445,CH Morris,16,Q de Kock,155.1,CH Morris,7.8
+2016,Gujarat Lions,SK Raina,399,DS Kulkarni,20,SK Raina,152.4,DS Kulkarni,8
+2016,Kings XI Punjab,M Vijay,453,Sandeep Sharma,19,M Vijay,148.2,Sandeep Sharma,7.9
+2016,Kolkata Knight Riders,G Gambhir,501,AD Russell,19,AD Russell,180.1,AD Russell,8.2
+2016,Mumbai Indians,RG Sharma,489,JJ Bumrah,18,RG Sharma,150.3,JJ Bumrah,7.4
+2016,Rising Pune Supergiants,AM Rahane,480,AB Dinda,13,AM Rahane,145.2,AB Dinda,8.1
+2016,Royal Challengers Bangalore,V Kohli,973,SR Watson,23,V Kohli,152.1,SR Watson,7.6
+2016,Sunrisers Hyderabad,DA Warner,848,B Kumar,24,DA Warner,160.4,B Kumar,7.1
+2017,Delhi Daredevils,SV Samson,386,PJ Cummins,16,SV Samson,155.3,PJ Cummins,8.3
+2017,Gujarat Lions,SK Raina,442,Basil Thampi,15,SK Raina,150.2,Basil Thampi,8
+2017,Kings XI Punjab,HM Amla,420,Sandeep Sharma,17,HM Amla,148.1,Sandeep Sharma,7.9
+2017,Kolkata Knight Riders,G Gambhir,498,CR Woakes,18,G Gambhir,145.4,CR Woakes,7.8
+2017,Mumbai Indians,KA Pollard,395,JJ Bumrah,23,KA Pollard,160.1,JJ Bumrah,7.5
+2017,Rising Pune Supergiant,SPD Smith,472,JD Unadkat,27,SPD Smith,150.3,JD Unadkat,7.6
+2017,Royal Challengers Bangalore,V Kohli,308,P Negi,17,V Kohli,152.2,P Negi,8.1
+2017,Sunrisers Hyderabad,DA Warner,641,B Kumar,28,DA Warner,158.4,B Kumar,7.2
+2018,Chennai Super Kings,AT Rayudu,602,DJ Bravo,18,AT Rayudu,148.2,DJ Bravo,7.9
+2018,Delhi Daredevils,RR Pant,684,TA Boult,20,RR Pant,165.1,TA Boult,8.2
+2018,Kings XI Punjab,KL Rahul,659,AJ Tye,28,KL Rahul,155.3,AJ Tye,8
+2018,Kolkata Knight Riders,KD Karthik,498,Kuldeep Yadav,18,KD Karthik,150.2,Kuldeep Yadav,7.8
+2018,Mumbai Indians,SA Yadav,512,HH Pandya,19,SA Yadav,160.4,HH Pandya,8.1
+2018,Rajasthan Royals,JC Buttler,548,JC Archer,15,JC Buttler,170.1,JC Archer,7.6
+2018,Royal Challengers Bangalore,V Kohli,530,UT Yadav,20,V Kohli,152.3,UT Yadav,8.3
+2018,Sunrisers Hyderabad,KS Williamson,735,S Kaul,24,KS Williamson,148.2,S Kaul,7.7
+2019,Chennai Super Kings,MS Dhoni,416,Imran Tahir,26,MS Dhoni,145.1,Imran Tahir,7.5
+2019,Delhi Capitals,S Dhawan,521,K Rabada,29,S Dhawan,150.4,K Rabada,8.1
+2019,Kings XI Punjab,KL Rahul,593,Mohammed Shami,22,KL Rahul,155.2,Mohammed Shami,8.2
+2019,Kolkata Knight Riders,AD Russell,514,AD Russell,11,AD Russell,180.3,AD Russell,8.5
+2019,Mumbai Indians,Q de Kock,529,JJ Bumrah,23,Q de Kock,152.1,JJ Bumrah,7.39
+2019,Rajasthan Royals,AM Rahane,393,S Gopal,20,AM Rahane,148.2,S Gopal,7.8
+2019,Royal Challengers Bangalore,V Kohli,464,YS Chahal,18,V Kohli,150.3,YS Chahal,7.6
+2019,Sunrisers Hyderabad,DA Warner,692,KK Ahmed,20,DA Warner,158.1,KK Ahmed,8
+2020,Chennai Super Kings,F du Plessis,449,SM Curran,14,F du Plessis,152.4,SM Curran,7.9
+2020,Delhi Capitals,S Dhawan,618,K Rabada,32,S Dhawan,150.2,K Rabada,8.1
+2020,Kings XI Punjab,KL Rahul,676,Mohammed Shami,23,KL Rahul,155.1,Mohammed Shami,8.3
+2020,Kolkata Knight Riders,Shubman Gill,440,CV Varun,17,Shubman Gill,148.3,CV Varun,7.8
+2020,Mumbai Indians,Ishan Kishan,516,JJ Bumrah,30,Ishan Kishan,160.2,JJ Bumrah,7.5
+2020,Rajasthan Royals,SV Samson,375,JC Archer,20,SV Samson,165.4,JC Archer,7.6
+2020,Royal Challengers Bangalore,D Padikkal,473,YS Chahal,22,D Padikkal,150.1,YS Chahal,7.7
+2020,Sunrisers Hyderabad,DA Warner,548,Rashid Khan,20,DA Warner,152.3,Rashid Khan,6.8
+2021,Chennai Super Kings,RD Gaikwad,635,SN Thakur,22,RD Gaikwad,148.2,SN Thakur,8
+2021,Delhi Capitals,S Dhawan,587,Avesh Khan,27,S Dhawan,150.4,Avesh Khan,8.2
+2021,Kolkata Knight Riders,Shubman Gill,478,CV Varun,20,Shubman Gill,152.1,CV Varun,7.5
+2021,Mumbai Indians,RG Sharma,381,JJ Bumrah,22,RG Sharma,145.3,JJ Bumrah,7.39
+2021,Punjab Kings,KL Rahul,626,Arshdeep Singh,20,KL Rahul,155.2,Arshdeep Singh,8.1
+2021,Rajasthan Royals,SV Samson,484,Mustafizur Rahman,18,SV Samson,160.1,Mustafizur Rahman,7.8
+2021,Royal Challengers Bangalore,GJ Maxwell,513,HV Patel,35,GJ Maxwell,170.4,HV Patel,8.3
+2021,Sunrisers Hyderabad,MK Pandey,292,Rashid Khan,19,MK Pandey,148.2,Rashid Khan,7
+2022,Chennai Super Kings,RD Gaikwad,368,DJ Bravo,17,RD Gaikwad,150.3,DJ Bravo,7.9
+2022,Delhi Capitals,DA Warner,432,Kuldeep Yadav,21,DA Warner,152.1,Kuldeep Yadav,7.6
+2022,Gujarat Titans,HH Pandya,487,Mohammed Shami,21,HH Pandya,155.4,Mohammed Shami,8
+2022,Kolkata Knight Riders,SS Iyer,401,AD Russell,21,SS Iyer,148.2,AD Russell,8.2
+2022,Lucknow Super Giants,KL Rahul,616,Avesh Khan,19,KL Rahul,150.1,Avesh Khan,8.1
+2022,Mumbai Indians,Ishan Kishan,418,JJ Bumrah,16,Ishan Kishan,160.2,JJ Bumrah,7.4
+2022,Punjab Kings,S Dhawan,460,K Rabada,23,S Dhawan,145.3,K Rabada,8.3
+2022,Rajasthan Royals,JC Buttler,863,YS Chahal,29,JC Buttler,170.1,YS Chahal,7.5
+2022,Royal Challengers Bangalore,F du Plessis,468,PWH de Silva,27,F du Plessis,152.4,PWH de Silva,7.8
+2022,Sunrisers Hyderabad,Abhishek Sharma,426,Umran Malik,23,Abhishek Sharma,165.2,Umran Malik,8.5
+2023,Chennai Super Kings,DP Conway,672,TU Deshpande,24,DP Conway,155.1,TU Deshpande,8
+2023,Delhi Capitals,DA Warner,516,MR Marsh,12,DA Warner,150.3,MR Marsh,8.2
+2023,Gujarat Titans,Shubman Gill,890,MM Sharma,31,Shubman Gill,157.2,MM Sharma,7.8
+2023,Kolkata Knight Riders,RK Singh,474,CV Varun,20,RK Singh,160.1,CV Varun,7.5
+2023,Lucknow Super Giants,MP Stoinis,408,Ravi Bishnoi,17,MP Stoinis,165.4,Ravi Bishnoi,7.9
+2023,Mumbai Indians,SA Yadav,605,PP Chawla,23,SA Yadav,170.2,PP Chawla,8.1
+2023,Punjab Kings,S Dhawan,373,Arshdeep Singh,18,S Dhawan,148.1,Arshdeep Singh,8.3
+2023,Rajasthan Royals,YBK Jaiswal,625,YS Chahal,22,YBK Jaiswal,155.3,YS Chahal,7.6
+2023,Royal Challengers Bangalore,F du Plessis,730,Mohammed Siraj,20,F du Plessis,152.2,Mohammed Siraj,8.4
+2023,Sunrisers Hyderabad,H Klaasen,448,B Kumar,19,H Klaasen,170.1,B Kumar,7.7
+2024,Chennai Super Kings,RD Gaikwad,583,TU Deshpande,18,RD Gaikwad,150.4,TU Deshpande,8.5
+2024,Delhi Capitals,RR Pant,446,Mukesh Kumar,22,RR Pant,162.1,Mukesh Kumar,8.2
+2024,Gujarat Titans,B Sai Sudharsan,527,MM Sharma,16,B Sai Sudharsan,155.2,MM Sharma,7.8
+2024,Kolkata Knight Riders,SP Narine,488,CV Varun,21,SP Narine,180.3,CV Varun,7.2
+2024,Lucknow Super Giants,KL Rahul,520,Naveen-ul-Haq,15,KL Rahul,148.2,Naveen-ul-Haq,8
+2024,Mumbai Indians,RG Sharma,417,JJ Bumrah,21,Suryakumar Yadav,170.1,JJ Bumrah,7.39
+2024,Punjab Kings,Shashank Singh,354,HV Patel,30,Shashank Singh,160.4,HV Patel,8.1
+2024,Rajasthan Royals,R Parag,573,Avesh Khan,22,R Parag,155.3,Avesh Khan,8.3
+2024,Royal Challengers Bengaluru,V Kohli,741,Yash Dayal,16,V Kohli,152.2,Yash Dayal,8
+2024,Sunrisers Hyderabad,TM Head,567,T Natarajan,20,TM Head,180.2,T Natarajan,8.5
+2025,Chennai Super Kings,RD Gaikwad,550,Noor Ahmad,24,Urvil Patel,212.5,Noor Ahmad,7.12
+2025,Delhi Capitals,David Warner,558,Team bowler,20,David Warner,160,Kuldeep Yadav,7.8
+2025,Gujarat Titans,Sai Sudharsan,759,Prasidh Krishna,25,Shubman Gill,155.9,Prasidh Krishna,8.27
+2025,Kolkata Knight Riders,SP Narine,500,CV Varun,21,SP Narine,180,CV Varun,7.5
+2025,Lucknow Super Giants,Mitchell Marsh,627,Team bowler,18,Nicholas Pooran,196,Ayush Badoni,6.5
+2025,Mumbai Indians,Suryakumar Yadav,717,Trent Boult,22,Suryakumar Yadav,167.9,Trent Boult,7.5
+2025,Punjab Kings,Shreyas Iyer,603,Arshdeep Singh,20,Shreyas Iyer,175.1,Arshdeep Singh,8
+2025,Rajasthan Royals,Yashasvi Jaiswal,559,Team bowler,18,Vaibhav Sooryavanshi,206.55,Team spinner,7.8
+2025,Royal Challengers Bengaluru,Virat Kohli,657,Josh Hazlewood,22,Romario Shepherd,291.66,Nuwan Thushara,6.5
+2025,Sunrisers Hyderabad,Heinrich Klaasen,587,T Natarajan,20,Heinrich Klaasen,170.2,T Natarajan,8
