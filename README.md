@@ -1,4 +1,18 @@
-# 📊 IPL Analysis Dashboard (2008–2024)
+<h1 align="center">📊 IPL Analysis Dashboard (2008–2024)</h1>
+
+<p align="center">
+  🏏 Power BI Project • 📈 Data Analytics • 📊 Interactive Visualization
+</p>
+
+---
+
+## 📂 Dataset
+
+🔗 **Source:** [IPL Complete Dataset (2008–2020)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+
+📌 This dataset includes:
+- Match-level data (teams, scores, results)  
+- Ball-by-ball delivery data  
 
 
 ---
@@ -56,6 +70,7 @@ Key performance indicators (KPIs) to give a quick summary.
 - Text visuals  
 - Filters  
 
+![Dashboard Preview](./image/dashboard/Page%201.png)
 ---
 
 ### 📈 PART 3: Running Total Analysis
@@ -68,6 +83,8 @@ Key performance indicators (KPIs) to give a quick summary.
 - X-axis: Overs  
 - Y-axis: Runs  
 
+![Dashboard Preview](./image/dashboard/Page%202.png)
+![Dashboard Preview](./image/dashboard/Page%203.png)
 ---
 
 ### ⚡ PART 4: Runs Per Over Analysis
@@ -82,6 +99,7 @@ Key performance indicators (KPIs) to give a quick summary.
 - High overs → Power hitting  
 - Low overs → Strong bowling  
 
+![Dashboard Preview](./image/dashboard/Page%204.png)
 ---
 
 ### 🏆 PART 5: IPL Winners Analysis
@@ -94,6 +112,7 @@ Key performance indicators (KPIs) to give a quick summary.
 - Chennai Super Kings → 5 Titles  
 - Kolkata Knight Riders → 3 Titles  
 
+![Dashboard Preview](./image/dashboard/Page%205.png)
 ---
 
 ### 📊 PART 6: Team Performance
@@ -110,6 +129,7 @@ Key performance indicators (KPIs) to give a quick summary.
   - Wins: 9  
   - Avg: 25.89  
 
+![Dashboard Preview](./image/dashboard/Page%206.png)
 ---
 
 ### 📋 PART 7: Points Table
@@ -123,6 +143,7 @@ Key performance indicators (KPIs) to give a quick summary.
 **Example:**
 - 2024 Winner: Kolkata Knight Riders  
 
+![Dashboard Preview](./image/dashboard/Page%207.png)
 ---
 
 ### 👤 PART 8: Player Analysis
@@ -137,6 +158,7 @@ Key performance indicators (KPIs) to give a quick summary.
 **Example:**
 - Virat Kohli → 165 runs  
 
+![Dashboard Preview](./image/dashboard/Page%208.png)
 ---
 
 ### 🎛️ PART 9: Filter Panel
@@ -198,4 +220,8 @@ It provides:
 
 ---
 
-## 📁 Project Structure
+## 👤 Author
+
+**Upendra Dhawalkar**  
+📊 Data Analytics Enthusiast  
+🔗 LinkedIn: https://www.linkedin.com/in/upendradhawalkar
