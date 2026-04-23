@@ -84,6 +84,9 @@ Key performance indicators (KPIs) to give a quick summary.
 - Y-axis: Runs  
 
 ![Dashboard Preview](./image/dashboard/Page%202.png)
+
+**Visuals: using deneb ( json code )**
+
 ![Dashboard Preview](./image/dashboard/Page%203.png)
 ---
 
